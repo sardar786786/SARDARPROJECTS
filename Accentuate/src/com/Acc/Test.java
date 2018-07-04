@@ -14,6 +14,7 @@ public class Test {
     //Student s1=f1.getBean(f1);
     Student s1=(Student)f1.getBean("std");
     s1.show();
+    System.out.println("hii");
 	}
 
 }

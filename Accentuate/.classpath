@@ -28,5 +28,6 @@
 	<classpathentry kind="lib" path="D:/spring3.1.1/spring3.1.1/spring-ws-core-1.0.0.jar"/>
 	<classpathentry kind="lib" path="D:/spring3.1.1/spring3.1.1/spring-xml-1.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/SARDAR/Desktop/jdbc jar/ojdbc14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
